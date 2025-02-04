@@ -904,6 +904,9 @@
   .bg-\[url\(\"\.\.\/images\/icons\/home-icon\.svg\"\)\] {
     background-image: url("../images/icons/home-icon.svg");
   }
+  .bg-\[url\(\"\.\.\/images\/icons\/pet-cion\.svg\"\)\] {
+    background-image: url("../images/icons/pet-cion.svg");
+  }
   .bg-\[url\(\"\.\.\/images\/icons\/pet-icon\.svg\"\)\] {
     background-image: url("../images/icons/pet-icon.svg");
   }
@@ -1006,6 +1009,15 @@
   .pt-\[10px\] {
     padding-top: 10px;
   }
+  .pt-\[145px\] {
+    padding-top: 145px;
+  }
+  .pt-\[151px\] {
+    padding-top: 151px;
+  }
+  .pt-\[15px\] {
+    padding-top: 15px;
+  }
   .pt-\[16px\] {
     padding-top: 16px;
   }
@@ -1020,15 +1032,6 @@
   }
   .pt-\[53px\] {
     padding-top: 53px;
-  }
-  .pt-\[145px\] {
-    padding-top: 145px;
-  }
-  .pt-\[151px\] {
-    padding-top: 151px;
-  }
-  .pt-\[15px\] {
-    padding-top: 15px;
   }
   .pt-\[54px\] {
     padding-top: 54px;
@@ -1051,6 +1054,9 @@
   .pb-\[19px\] {
     padding-bottom: 19px;
   }
+  .pb-\[28px\] {
+    padding-bottom: 28px;
+  }
   .pb-\[35px\] {
     padding-bottom: 35px;
   }
@@ -1062,9 +1068,6 @@
   }
   .pb-\[23px\] {
     padding-bottom: 23px;
-  }
-  .pb-\[28px\] {
-    padding-bottom: 28px;
   }
   .pb-\[36px\] {
     padding-bottom: 36px;
@@ -1172,14 +1175,14 @@
     --tw-font-weight: var(--font-weight-semibold);
     font-weight: var(--font-weight-semibold);
   }
+  .text-\[\#78c0de\] {
+    color: #78c0de;
+  }
   .text-\[\#333\] {
     color: #333;
   }
   .text-\[\#3d9cea\] {
     color: #3d9cea;
-  }
-  .text-\[\#78c0de\] {
-    color: #78c0de;
   }
   .text-\[\#949494\] {
     color: #949494;
